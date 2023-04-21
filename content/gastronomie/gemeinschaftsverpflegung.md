@@ -15,6 +15,8 @@ card:
 - Test
 menu: "/uploads/speisenplan_kw_20-_21-05-2021.pdf"
 menus:
+- label: Kalenderwoche 22 bis 03.06.2023
+  menu: "/images/kw22-03-06-23.pdf"
 - label: Kalenderwoche 20 bis 20.05.2023
   menu: "/images/kw20-20-05-23.pdf"
 - label: Kalenderwoche 19 bis 13.05.2023
