@@ -1,5 +1,5 @@
 <template>
-  <div class="layout" style="overflow-y: auto;">
+  <div class="layout" style="overflow-y: auto">
     <Header />
     <Nuxt />
     <Footer />

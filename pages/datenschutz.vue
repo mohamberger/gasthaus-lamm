@@ -526,7 +526,7 @@
   </main>
 </template>
 <script>
-import meta from '~/mixins/meta.js';
+import meta from "~/mixins/meta.js";
 export default {
   mixins: [meta],
   data() {
