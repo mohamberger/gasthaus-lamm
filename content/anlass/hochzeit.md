@@ -23,7 +23,7 @@ description: >-
 
 
   Wir sind ausgewählter Dienstleister bei
-  [5Sternehochzeit](www.5sternehochzeit.de)
+  [5Sternehochzeit](http://www.5sternehochzeit.de)
 
 
   Ein Zusammenschluss aus Dienstleistern, rund um die Hochzeit
