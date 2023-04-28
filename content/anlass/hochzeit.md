@@ -23,12 +23,11 @@ description: >-
 
 
   Wir sind ausgewählter Dienstleister bei
-  [5Sternehochzeit](www.5sternehochzeit.de "5sternehochzeit")
+  [5Sternehochzeit](www.5sternehochzeit.de)
 
 
   Ein Zusammenschluss aus Dienstleistern, rund um die Hochzeit
 image: /images/lammwirt-stadel2.jpeg
 headline: Genießen Sie den schönsten Tag
-_template: anlass
 ---
 
