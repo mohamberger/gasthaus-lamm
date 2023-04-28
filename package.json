@@ -8,9 +8,9 @@
   },
   "scripts": {
     "dev": "tinacms dev --verbose -c nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate",
+    "build": "tinacms build && nuxt build",
+    "start": "tinacms build && nuxt start",
+    "generate": "tinacms build && nuxt generate",
     "lint": "npx prettier --write ."
   },
   "dependencies": {
