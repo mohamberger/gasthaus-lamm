@@ -1,6 +1,7 @@
 <template>
   <main>
     <HeroPage :page="page" />
+    <nuxt-content :document="page" class="container" />
     <section
       class="py-5 my-5"
       v-for="(gastronomy, key) in gastronomies"

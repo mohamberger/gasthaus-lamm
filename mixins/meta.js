@@ -35,7 +35,7 @@ export default {
           property: "og:image",
           content: this.page.meta_image
             ? "https://fewo-lamm.de" + this.page.meta_image
-            : "https://fewo-lamm.de/og-image.jpg"
+            : "https://fewo-lamm.de/og-image.jpg",
         },
         {
           hid: "og:locale",

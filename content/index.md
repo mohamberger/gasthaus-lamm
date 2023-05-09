@@ -5,8 +5,8 @@ description: ''
 cover: ''
 references: []
 images:
-  - /images/zapfanlage.jpeg
-  - /images/tisch.jpeg
+  - /uploads/images/zapfanlage.jpeg
+  - /uploads/images/tisch.jpeg
 meta_title: Willkommen auf der Schwäbischen Alb
 meta_description: >-
   Willkommen auf der Schwäbischen Alb im Gasthaus zum Lamm und im Lammwirt

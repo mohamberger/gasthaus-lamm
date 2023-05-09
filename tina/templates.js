@@ -164,19 +164,23 @@ export function gastronomieFields() {
       name: "menus",
       label: "Speisekarten",
       list: true,
+      ui: {
+        itemProps: (item) => {
+          return { label: item?.label };
+        },
+      },
       fields: [
         {
           type: "string",
           name: "label",
           label: "Label",
         },
+        {
+          type: "image",
+          name: "menu",
+          label: "Speisekarte",
+        },
       ],
-    },
-    {
-      type: "string",
-      name: "location",
-      label: "Location",
-      options: [],
     },
   ];
 }
@@ -191,11 +195,6 @@ export function homeFields() {
       type: "string",
       name: "title_emotional",
       label: "title_emotional",
-    },
-    {
-      type: "string",
-      name: "description",
-      label: "description",
     },
     {
       type: "image",

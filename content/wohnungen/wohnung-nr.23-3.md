@@ -17,15 +17,15 @@ description: >-
     
   Die Wohnungen sind sehr ruhig gelegen mit Blick ins Grüne.
 images:
-  - /images/233-6.jpg
-  - /images/233-5.jpg
-  - /images/233-4.jpg
-  - /images/233-3.jpg
-  - /images/233-2.jpg
-  - /images/233-1.jpg
-  - /images/grundriss-233.jpg
-  - /images/pfarrgarten-23-2.jpg
-  - /images/pfarrgarten-23.jpg
+  - /uploads/images/233-6.jpg
+  - /uploads/images/233-5.jpg
+  - /uploads/images/233-4.jpg
+  - /uploads/images/233-3.jpg
+  - /uploads/images/233-2.jpg
+  - /uploads/images/233-1.jpg
+  - /uploads/images/grundriss-233.jpg
+  - /uploads/images/pfarrgarten-23-2.jpg
+  - /uploads/images/pfarrgarten-23.jpg
 booking: >-
   https://v4.ibe.dirs21.de/channels/fewo-lammde?culture=de-DE&room_id=104928&los=3
 _template: apartment

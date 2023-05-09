@@ -1,6 +1,7 @@
 <template>
   <main>
     <HeroPage :page="page" />
+    <nuxt-content :document="page" class="container" />
     <section id="garni" class="py-5">
       <b-container>
         <b-row>

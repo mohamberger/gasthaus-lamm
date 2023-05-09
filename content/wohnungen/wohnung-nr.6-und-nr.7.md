@@ -10,20 +10,20 @@ description: >-
   Die obere Wohnung besitzt ferner einen großen Balkon, die untere eine Terrasse
   mit Zugang zum Garten.
 images:
-  - /images/01img_ferienhaus.jpeg
-  - /images/jap-199.jpg
-  - /images/jap-202.jpg
-  - /images/jap-190.jpg
-  - /images/jap-186.jpg
-  - /images/jap-184.jpg
-  - /images/jap-183.jpg
-  - /images/jap-181.jpg
-  - /images/jap-179.jpg
-  - /images/jap-178.jpg
-  - /images/jap-177.jpg
-  - /images/jap-176.jpg
-  - /images/jap-175.jpg
-  - /images/jap-174.jpg
+  - /uploads/images/01img_ferienhaus.jpeg
+  - /uploads/images/jap-199.jpg
+  - /uploads/images/jap-202.jpg
+  - /uploads/images/jap-190.jpg
+  - /uploads/images/jap-186.jpg
+  - /uploads/images/jap-184.jpg
+  - /uploads/images/jap-183.jpg
+  - /uploads/images/jap-181.jpg
+  - /uploads/images/jap-179.jpg
+  - /uploads/images/jap-178.jpg
+  - /uploads/images/jap-177.jpg
+  - /uploads/images/jap-176.jpg
+  - /uploads/images/jap-175.jpg
+  - /uploads/images/jap-174.jpg
 booking: >-
   https://v4.ibe.dirs21.de/channels/fewo-lammde?culture=de-DE&room_id=63278&los=3
 _template: apartment

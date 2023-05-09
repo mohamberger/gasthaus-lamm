@@ -17,7 +17,7 @@ text: >-
   "Am Pfarrgarten 23" stehen Ihnen Waschmaschinen und Trockner mit Münzeinwurf
   zur Verfügung. In Wohnung Nr. 1 gibt es eine Waschmaschine mit Münzeinwurf.
 images:
-  - /images/albcard.png
+  - /uploads/images/albcard.png
 description: >-
   Die Schwäbische Alb ist als Ferienziel für Familien beliebt und hat enorm viel
   zu bieten. Unsere komfortablen Ferienwohnungen sind ein idealer Ausgangspunkt
@@ -39,7 +39,7 @@ description: >-
   kostenfrei die ALB-Card.
 
 
-  ![](/images/albcard.png)
+  ![](/uploads/images/albcard.png)
 
 
   **→** **kostenfreie** Nutzung des öffentlichen Nahverkehrs

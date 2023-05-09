@@ -19,7 +19,7 @@ description: >-
   sich Ihre Hochzeitsfeier vorstellen.
 
 
-  ![](/images/5sterne-siegel-neu-200x200.png)
+  ![](/uploads/images/5sterne-siegel-neu-200x200.png)
 
 
   Wir sind ausgewählter Dienstleister bei
@@ -27,7 +27,7 @@ description: >-
 
 
   Ein Zusammenschluss aus Dienstleistern, rund um die Hochzeit
-image: /images/lammwirt-stadel2.jpeg
+image: /uploads/images/lammwirt-stadel2.jpeg
 headline: Genießen Sie den schönsten Tag
 ---
 

@@ -18,12 +18,12 @@ text: >-
   Aber auch Parkplätze sind vorhanden. Anders als in den Ferienwohnungen sind im
   Gästehaus keine Haustiere erlaubt.
 images:
-  - /images/img_6265.jpg
-  - /images/img_20200802_090820_resized_20200803_052935971.jpg
-  - /images/img_20200802_090847_resized_20200803_052934684.jpg
-  - /images/img_20200803_172836_resized_20200803_052936617.jpg
-  - /images/img_20200802_090833_resized_20200803_052935298.jpg
-  - /images/img_20200802_091016_resized_20200803_052933976.jpg
+  - /uploads/images/img_6265.jpg
+  - /uploads/images/img_20200802_090820_resized_20200803_052935971.jpg
+  - /uploads/images/img_20200802_090847_resized_20200803_052934684.jpg
+  - /uploads/images/img_20200803_172836_resized_20200803_052936617.jpg
+  - /uploads/images/img_20200802_090833_resized_20200803_052935298.jpg
+  - /uploads/images/img_20200802_091016_resized_20200803_052933976.jpg
 description: >-
   Hier befinden sich zehn ansprechende Nichtraucher-Gästezimmer mit Dusche/WC
   und variablen Doppel- oder Einzelboxspringbetten. Sieben der Zimmer verfügen

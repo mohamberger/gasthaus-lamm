@@ -27,7 +27,7 @@ export default defineConfig({
   },
   media: {
     tina: {
-      mediaRoot: "",
+      mediaRoot: "uploads",
       publicFolder: "static",
     },
   },
@@ -58,17 +58,12 @@ export default defineConfig({
           {
             type: "string",
             name: "title",
-            label: "title",
+            label: "Titel",
           },
           {
             type: "string",
             name: "title_emotional",
-            label: "title_emotional",
-          },
-          {
-            type: "string",
-            name: "description",
-            label: "description",
+            label: "Emotionaler Titel",
           },
           {
             type: "image",
@@ -87,16 +82,7 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...newsFields(),
-        ],
+        fields: [...newsFields()],
       },
       {
         format: "md",
@@ -114,13 +100,6 @@ export default defineConfig({
         },
         fields: [
           {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          {
             type: "string",
             name: "title",
             label: "Titel",
@@ -135,6 +114,13 @@ export default defineConfig({
             name: "cover",
             label: "Cover",
           },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
+          },
           ...metaFields(),
         ],
       },
@@ -146,16 +132,7 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...zimmerFields(),
-        ],
+        fields: [...zimmerFields()],
       },
       {
         format: "md",
@@ -165,16 +142,7 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...wohnungFields(),
-        ],
+        fields: [...wohnungFields()],
       },
       {
         format: "md",
@@ -184,16 +152,7 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...accommodationFields(),
-        ],
+        fields: [...accommodationFields()],
       },
       {
         format: "md",
@@ -203,16 +162,7 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...locationFields(),
-        ],
+        fields: [...locationFields()],
       },
       {
         format: "md",
@@ -262,16 +212,7 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...anlassFields(),
-        ],
+        fields: [...anlassFields()],
       },
       {
         format: "md",
@@ -289,13 +230,6 @@ export default defineConfig({
         },
         fields: [
           {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          {
             type: "string",
             name: "title",
             label: "Titel",
@@ -310,6 +244,13 @@ export default defineConfig({
             name: "cover",
             label: "Cover",
           },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
+          },
           ...metaFields(),
         ],
       },
@@ -321,16 +262,7 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...gastronomieFields(),
-        ],
+        fields: [...gastronomieFields()],
       },
     ],
   },

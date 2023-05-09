@@ -21,14 +21,14 @@ description: >-
   Unsere Ferienwohnung Nr. 231 ist eine große, geräumige und helle Sousterrain
   Wohnung!
 images:
-  - /images/231-7.jpg
-  - /images/231-6.jpg
-  - /images/231-5.jpg
-  - /images/231-4.jpg
-  - /images/231-3.jpg
-  - /images/231-2.jpg
-  - /images/231-1.jpg
-  - /images/grundriss-231.jpg
+  - /uploads/images/231-7.jpg
+  - /uploads/images/231-6.jpg
+  - /uploads/images/231-5.jpg
+  - /uploads/images/231-4.jpg
+  - /uploads/images/231-3.jpg
+  - /uploads/images/231-2.jpg
+  - /uploads/images/231-1.jpg
+  - /uploads/images/grundriss-231.jpg
 booking: 'https://v4.ibe.dirs21.de/channels/fewo-lammde?culture=de-DE&los=3'
 _template: apartment
 ---

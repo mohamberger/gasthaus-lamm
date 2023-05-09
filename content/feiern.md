@@ -5,7 +5,6 @@ cover: ''
 description: ''
 meta_title: ''
 meta_description: ''
-_template: default
 ---
 
 <mini-container>
@@ -14,8 +13,8 @@ _template: default
 
 <p class="h2">Feiern mit Stil</p>
 
-Aus unserem früheren Stadel ist eine großer Feststadel geworden, der Ihnen ein außergewöhnliches Ambiente für Ihre Feiern und Anlässe bietet. Ob Hochzeit, Familienfeste, Firmenfeiern, Jubiläen oder Geburtstage - 
-der LammwirtStadel ist ideal für jeden Event. 
+Aus unserem früheren Stadel ist eine großer Feststadel geworden, der Ihnen ein außergewöhnliches Ambiente für Ihre Feiern und Anlässe bietet. Ob Hochzeit, Familienfeste, Firmenfeiern, Jubiläen oder Geburtstage -
+der LammwirtStadel ist ideal für jeden Event.
 
 Er bietet Platz für maximal 160 Personen. Er kann aber dank geschickter Raumteilung für kleinere oder mehrere Gruppen gleichzeitig genutzt werden. Den Charme und Charakter eines Stadels haben wir erhalten, trotzdem besitzt er alle Vorzüge eines modernen Festsaals.
 

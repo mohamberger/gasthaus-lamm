@@ -22,7 +22,7 @@ description: >-
   Rauch zur Zeit der spanischen Eroberung Amerikas in der ganzen Karibik und die
   Festlandsküste entlang bis nach Brasilien.
 menus: []
-image: /images/victoria-shes-uc0hzduitwy-unsplash.jpg
+image: /uploads/images/victoria-shes-uc0hzduitwy-unsplash.jpg
 _template: gastronomy
 ---
 

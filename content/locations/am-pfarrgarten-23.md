@@ -8,7 +8,7 @@ apartments:
   - content/wohnungen/wohnung-nr.23-5.md
   - content/wohnungen/wohnung-nr.23-6.md
 images:
-  - /images/pfarrgarten-23-2-klein.jpeg
+  - /uploads/images/pfarrgarten-23-2-klein.jpeg
 description: >-
   In dem neuen Gebäude von 2014 befinden sich großzügige, modern und zeitlos
   eingerichtete Wohnungen mit vollwertigen Küchen im Wohn- und Essbereich. Die

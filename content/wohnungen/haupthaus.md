@@ -11,15 +11,15 @@ persons: 4
 booking: https://v4.ibe.dirs21.de/channels/fewo-lammde?culture=de-DE&room_id=104929&los=3
 location: content/locations/haupthaus.md
 images:
-- "/images/img_2015.jpg"
-- "/images/img_2014.jpg"
-- "/images/img_2013.jpg"
-- "/images/img_2012.jpg"
-- "/images/img_2011.jpg"
-- "/images/img_2010.jpg"
-- "/images/img_2009.jpg"
-- "/images/img_2008.jpg"
-- "/images/img_2007.jpg"
+- "/uploads/images/img_2015.jpg"
+- "/uploads/images/img_2014.jpg"
+- "/uploads/images/img_2013.jpg"
+- "/uploads/images/img_2012.jpg"
+- "/uploads/images/img_2011.jpg"
+- "/uploads/images/img_2010.jpg"
+- "/uploads/images/img_2009.jpg"
+- "/uploads/images/img_2008.jpg"
+- "/uploads/images/img_2007.jpg"
 
 ---
 Die großzügig geschnittene Wohnung befindet sich im 1. OG im Haupthaus und bietet reichlich Platz für bis zu 5 Personen.
