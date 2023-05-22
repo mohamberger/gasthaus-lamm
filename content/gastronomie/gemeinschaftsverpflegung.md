@@ -30,6 +30,8 @@ card:
   - Test
 menu: /uploads/speisenplan_kw_20-_21-05-2021.pdf
 menus:
+  - label: Kalenderwoche 25 bis 24.06.2023
+    menu: /uploads/speisekarten/KW25 -24-06-23.pdf
   - label: Kalenderwoche 24 bis 17.06.2023
     menu: /uploads/speisekarten/KW24 -17-06-23.pdf
   - label: Kalenderwoche 23 bis 10.06.2023
@@ -52,5 +54,6 @@ headline: 'lecker, regional, frisch'
 image: ''
 location: ''
 ---
+
 
 
