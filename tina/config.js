@@ -82,6 +82,23 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
+        ui: {
+          filename: {
+            slugify: (values) => {
+              // Values is an object containing all the values of the form.
+              return `${values?.title
+                ?.toString()
+                .normalize("NFD")
+                .replace(/[\u0300-\u036f]/g, "") // Replace diacritical marks
+                .replace(/ß/g, "ss")  // Replace "ß" with "ss"
+                .toLowerCase()
+                .trim()
+                .replace(/\s+/g, "-")
+                .replace(/[^\w-]+/g, "")
+                .replace(/--+/g, "-")}`;
+            },
+          },
+        },
         fields: [...newsFields()],
       },
       {
