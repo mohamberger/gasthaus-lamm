@@ -1,8 +1,8 @@
 ---
 title: Ente trifft Gans im Gasthaus Lamm
-date: 11.11.2022
+date: 10.11.2023
 description: >-
-  Am 11.11.; 12.11.; 13.11. und 25.11. findet wieder unser beliebtes Ente und
+  Am 10.11.; 11.11.; 12.11. und 24.11. findet wieder unser beliebtes Ente und
   Gans Essen statt
 
 
@@ -13,6 +13,6 @@ description: >-
 
 
   Wir empfehlen eine Tischreservierung!
-_template: news
 ---
+
 
