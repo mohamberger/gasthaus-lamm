@@ -31,7 +31,7 @@ card:
 menu: /uploads/speisenplan_kw_20-_21-05-2021.pdf
 menus:
   - label: Kalenderwoche 28 bis 15.07.2023
-    menu: /uploads/speisekarten/KW28 -15-07-23.pdf
+    menu: ''
   - label: Kalenderwoche 31 bis 05.08.2023
     menu: /uploads/speisekarten/KW31 -05-08-23.pdf
   - label: Kalenderwoche 30 bis 29.07.2023
@@ -50,6 +50,7 @@ headline: 'lecker, regional, frisch'
 image: ''
 location: ''
 ---
+
 
 
 
