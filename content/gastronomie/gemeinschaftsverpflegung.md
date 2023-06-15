@@ -37,7 +37,7 @@ menus:
   - label: Kalenderwoche 29 bis 22.07.2023
     menu: /uploads/speisekarten/KW29 -22-07-23.pdf
   - label: Kalenderwoche 28 bis 15.07.2023
-    menu: ''
+    menu: /uploads/speisekarten/KW28 -15-07-23.pdf
   - label: Kalenderwoche 27 bis 08.07.2023
     menu: /uploads/speisekarten/KW27 -08-07-23.pdf
   - label: Kalenderwoche 26 bis 01.07.2023
