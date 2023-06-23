@@ -19,10 +19,11 @@ menus:
   - label: Saisonkarte
     menu: /uploads/speisekarten/Frühjahr 05-23.doc
   - label: Unsere Speisekarte
-    menu: /uploads/images/speisekarte-04-22-lamm-asch.pdf
+    menu: /uploads/speisekarten/S p e i s e k a r t e  23-Juni 2023 SDS.pdf
 location: ''
 headline: Verwöhnen Sie ihren Gaumen mit Köstlichkeiten von der schwäbischen Alb
 image: ''
 ---
+
 
 
