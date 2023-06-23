@@ -18,12 +18,13 @@ description: >-
 menus:
   - label: Saisonkarte
     menu: /uploads/speisekarten/Frühjahr 05-23.doc
-  - label: Unsere Speisekarte
+  - label: Unsere aktuelle Speisekarte
     menu: /uploads/speisekarten/S p e i s e k a r t e  23-Juni 2023 SDS.pdf
 location: ''
 headline: Verwöhnen Sie ihren Gaumen mit Köstlichkeiten von der schwäbischen Alb
 image: ''
 ---
+
 
 
 
