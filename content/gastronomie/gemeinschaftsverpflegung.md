@@ -30,6 +30,8 @@ card:
   - Test
 menu: /uploads/speisenplan_kw_20-_21-05-2021.pdf
 menus:
+  - label: Kalenderwoche 36 bis 09.09.2023
+    menu: /uploads/speisekarten/Lamm KW36 -09-09-23.pdf
   - label: Kalenderwoche 35 bis 02.09.2023
     menu: /uploads/speisekarten/KW35 -02-09-23.pdf
   - label: Kalenderwoche 34 bis 26.08.2023
@@ -48,6 +50,7 @@ headline: 'lecker, regional, frisch'
 image: ''
 location: ''
 ---
+
 
 
 
