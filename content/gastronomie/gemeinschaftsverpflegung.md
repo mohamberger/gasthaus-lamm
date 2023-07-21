@@ -30,6 +30,8 @@ card:
   - Test
 menu: /uploads/speisenplan_kw_20-_21-05-2021.pdf
 menus:
+  - label: Kalenderwoche 34 bis 26.08.2023
+    menu: /uploads/speisekarten/KW34 -26-08-23.pdf
   - label: Kalenderwoche 33 bis 19.08.2023
     menu: /uploads/speisekarten/KW33 -19-08-23.pdf
   - label: Kalenderwoche 32 bis 12.08.2023
@@ -44,6 +46,7 @@ headline: 'lecker, regional, frisch'
 image: ''
 location: ''
 ---
+
 
 
 
