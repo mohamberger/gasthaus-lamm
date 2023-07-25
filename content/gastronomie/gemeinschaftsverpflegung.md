@@ -7,7 +7,6 @@ description: >-
   sowie Speisenplanung und -herstellung. Dabei richten wir uns streng nach den
   Richtlinien des DGE (Deutschlands Initiative für gesunde Ernährung und mehr
   Bewegung), um eine gesunde und ausgewogene Ernährung gewährleisten zu können.
-
   In diesem Zusammenhang haben wir uns für nachhaltige Ernährung entschieden,
   die u.a. folgende Aspekte beinhaltet:
 
@@ -56,6 +55,7 @@ headline: 'lecker, regional, frisch'
 image: ''
 location: ''
 ---
+
 
 
 
