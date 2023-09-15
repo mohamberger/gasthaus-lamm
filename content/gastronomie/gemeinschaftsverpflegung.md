@@ -29,6 +29,8 @@ card:
   - Test
 menu: /uploads/speisenplan_kw_20-_21-05-2021.pdf
 menus:
+  - label: Kalenderwoche 43 bis 28.10.2023
+    menu: /uploads/speisekarten/Lamm KW43 -28-10-23.pdf
   - label: Kalenderwoche 42 bis 21.10.2023
     menu: /uploads/speisekarten/Lamm KW42 -21-10-23.pdf
   - label: Kalenderwoche 41 bis 14.10.2023
