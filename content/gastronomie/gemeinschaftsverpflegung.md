@@ -29,32 +29,17 @@ card:
   - Test
 menu: /uploads/speisenplan_kw_20-_21-05-2021.pdf
 menus:
+  - label: Kalenderwoche 40 bis 07.10.2023
+    menu: /uploads/speisekarten/Lamm KW40 -07-10-23.pdf
   - label: Kalenderwoche 39 bis 30.09.2023
     menu: /uploads/speisekarten/Lamm KW39 -30-09-23.pdf
   - label: 'Kalenderwoche 38 bis 23.09.2023 '
     menu: /uploads/speisekarten/Lamm KW38 -23-09-23.pdf
-  - label: Kalenderwoche 37 bis 16.09.2023
-    menu: /uploads/speisekarten/Lamm KW37 -16-09-23.pdf
-  - label: Kalenderwoche 36 bis 09.09.2023
-    menu: /uploads/speisekarten/Lamm KW36 -09-09-23.pdf
-  - label: Kalenderwoche 35 bis 02.09.2023
-    menu: /uploads/speisekarten/KW35 -02-09-23.pdf
-  - label: Kalenderwoche 34 bis 26.08.2023
-    menu: /uploads/speisekarten/KW34 -26-08-23.pdf
-  - label: Kalenderwoche 33 bis 19.08.2023
-    menu: /uploads/speisekarten/KW33 -19-08-23.pdf
-  - label: Kalenderwoche 32 bis 12.08.2023
-    menu: /uploads/speisekarten/KW32 -12-08-23.pdf
-  - label: Kalenderwoche 31 bis 05.08.2023
-    menu: /uploads/speisekarten/KW31 -05-08-23.pdf
-  - label: Kalenderwoche 30 bis 29.07.2023
-    menu: /uploads/speisekarten/KW30 -29-07-23.pdf
-  - label: Kalenderwoche 29 bis 22.07.2023
-    menu: /uploads/speisekarten/KW29 -22-07-23.pdf
 headline: 'lecker, regional, frisch'
 image: ''
 location: ''
 ---
+
 
 
 
