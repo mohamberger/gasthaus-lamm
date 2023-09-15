@@ -17,13 +17,14 @@ description: >-
   Süden Löwen ausgezeichnet.
 menus:
   - label: Saisonkarte
-    menu: /uploads/speisekarten/Frühjahr 05-23.doc
+    menu: /uploads/speisekarten/Herbst 09-23.pdf
   - label: Unsere aktuelle Speisekarte
     menu: /uploads/speisekarten/S p e i s e k a r t e  23-Juni 2023 SDS.pdf
 location: ''
 headline: Verwöhnen Sie ihren Gaumen mit Köstlichkeiten von der schwäbischen Alb
 image: ''
 ---
+
 
 
 
