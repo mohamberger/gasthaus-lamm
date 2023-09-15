@@ -30,9 +30,9 @@ description: >-
   zertifizierter BIO Qualität!
 
 
-  Die genaue Auswahl ist abhängig vond er Jahreszeit und der Verfügbarkeit!
+  Die genaue Auswahl ist abhängig von der Jahreszeit und der Verfügbarkeit!
 menus: []
 image: /uploads/images/aneta-voborilova-e0eodfsj2cw-unsplash.jpg
-_template: gastronomy
 ---
+
 
