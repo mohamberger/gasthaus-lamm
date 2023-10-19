@@ -1,5 +1,7 @@
 ---
 title: Gemeinschaftsverpflegung
+headline: 'lecker, regional, frisch'
+image: ''
 description: >-
   Wir bieten eine umfassende Mittagsverpflegung für Tageseinrichtungen,
   Kindergärten, Schulen und Firmen, sowie Seniorenverpflegung an. Hohe
@@ -25,10 +27,9 @@ description: >-
 
   * Frischgemüse und Salate sowie Obst aus zertifiziertem BIO-Anbau (laut
   aktuellem Speisenplan)
-card:
-  - Test
-menu: /uploads/speisenplan_kw_20-_21-05-2021.pdf
 menus:
+  - label: Kalenderwoche 45 bis 11.11.2023
+    menu: /uploads/speisekarten/Lamm KW45 -11-11-23.pdf
   - label: Kalenderwoche 44 bis 04.11.2023
     menu: /uploads/speisekarten/Lamm KW44 -04-11-23.pdf
   - label: Kalenderwoche 43 bis 28.10.2023
@@ -43,38 +44,5 @@ menus:
     menu: /uploads/speisekarten/Lamm KW39 -30-09-23.pdf
   - label: 'Kalenderwoche 38 bis 23.09.2023 '
     menu: /uploads/speisekarten/Lamm KW38 -23-09-23.pdf
-headline: 'lecker, regional, frisch'
-image: ''
-location: ''
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
