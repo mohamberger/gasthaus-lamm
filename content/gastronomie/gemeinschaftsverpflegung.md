@@ -29,6 +29,7 @@ description: >-
   aktuellem Speisenplan)
 menus:
   - label: Kalenderwoche 46 bis 18.10.2023
+    menu: /uploads/speisekarten/Lamm KW46 -18-11-23.pdf
   - label: Kalenderwoche 45 bis 11.11.2023
     menu: /uploads/speisekarten/Lamm KW45 -11-11-23.pdf
   - label: Kalenderwoche 44 bis 04.11.2023
