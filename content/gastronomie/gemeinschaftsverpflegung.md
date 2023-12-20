@@ -32,7 +32,7 @@ menus:
     menu: /uploads/speisekarten/Lamm KW08 -24-02-24.pdf
   - label: 'Kalenderwoche 7 bis 17.02.2024 '
     menu: /uploads/speisekarten/Lamm KW07 -17-02-24.pdf
-  - label: Kalenderwoche 6 bis 10.02.2024
+  - label: Kalenderwoche 06 bis 10.02.2024
     menu: /uploads/speisekarten/Lamm KW06 -10-02-24.pdf
   - label: Kalenderwoche 05 bis 03.02.2024
     menu: /uploads/speisekarten/Lamm KW05 -03-02-24.pdf
