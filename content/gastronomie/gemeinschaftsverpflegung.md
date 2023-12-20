@@ -28,10 +28,11 @@ description: >-
   * Frischgemüse und Salate sowie Obst aus zertifiziertem BIO-Anbau (laut
   aktuellem Speisenplan)
 menus:
+  - {}
+  - label: 'Kalenderwoche 7 bis 17.02.2024 '
+    menu: /uploads/speisekarten/Lamm KW07 -17-02-24.pdf
   - label: Kalenderwoche 6 bis 10.02.2024
     menu: /uploads/speisekarten/Lamm KW06 -10-02-24.pdf
-  - {}
-  - {}
   - label: Kalenderwoche 05 bis 03.02.2024
     menu: /uploads/speisekarten/Lamm KW05 -03-02-24.pdf
   - label: Kalenderwoche 04 bis 27.01.2024
