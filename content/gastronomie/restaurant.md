@@ -1,5 +1,8 @@
 ---
+location: ''
 title: À la Carte
+headline: Verwöhnen Sie ihren Gaumen mit Köstlichkeiten von der schwäbischen Alb
+image: ''
 description: >-
   SO SCHMECKT DER SÜDEN
 
@@ -19,13 +22,6 @@ menus:
   - label: Saisonkarte
     menu: /uploads/speisekarten/Herbst 09-23.pdf
   - label: Unsere aktuelle Speisekarte
-    menu: /uploads/speisekarten/S p e i s e k a r t e  23-Juni 2023 SDS.pdf
-location: ''
-headline: Verwöhnen Sie ihren Gaumen mit Köstlichkeiten von der schwäbischen Alb
-image: ''
+    menu: /uploads/speisekarten/Speisekarte 24-01-24-SDS.pdf
 ---
-
-
-
-
 
