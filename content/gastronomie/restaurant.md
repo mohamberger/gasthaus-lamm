@@ -21,7 +21,7 @@ description: >-
 menus:
   - label: Saisonkarte
     menu: ''
-  - label: Unsere aktuelle Speisekarte
+  - label: 'Unsere aktuelle Speisekarte '
     menu: /uploads/speisekarten/Speisekarte 24-01-24-SDS.pdf
 ---
 
