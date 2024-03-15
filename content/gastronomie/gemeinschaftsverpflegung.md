@@ -29,6 +29,7 @@ description: >-
   aktuellem Speisenplan)
 menus:
   - label: Kalenderwoche 20 bis 18.05.2024
+    menu: /uploads/speisekarten/Lamm KW20 -18-05-24.pdf
   - label: Kalenderwoche 19 bis 11.05.2024
     menu: /uploads/speisekarten/Lamm KW19 -11-05-24.pdf
   - label: Kalenderwoche 18 bis 04.05.2024
