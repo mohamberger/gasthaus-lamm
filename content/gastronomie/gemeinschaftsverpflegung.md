@@ -28,6 +28,8 @@ description: >-
   * Frischgemüse und Salate sowie Obst aus zertifiziertem BIO-Anbau (laut
   aktuellem Speisenplan)
 menus:
+  - label: Kalenderwoche 18 bis 04.05.2024
+    menu: /uploads/speisekarten/Lamm KW18 -04-05-24.pdf
   - label: Kalenderwoche 17 bis 27.04.2024
     menu: /uploads/speisekarten/Lamm KW17 -27-04-24.pdf
   - label: Kalenderwoche 16 bis 20.04.2024
