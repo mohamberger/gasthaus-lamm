@@ -20,7 +20,7 @@ description: >-
   Süden Löwen ausgezeichnet.
 menus:
   - label: Saisonkarte
-    menu: ''
+    menu: /uploads/speisekarten/Frühjahr 2024 04-24.pdf
   - label: Unsere aktuelle Speisekarte
     menu: /uploads/speisekarten/Speisekarte 24-01-24-SDS.pdf
 ---
