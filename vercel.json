@@ -1,4 +1,14 @@
 {
+  "rewrites": [
+    {
+      "source": "/analytics/js/script.js",
+      "destination": "https://plausible.io/js/script.js"
+    },
+    {
+      "source": "/analytics/api/event",
+      "destination": "https://plausible.io/api/event"
+    }
+  ],
   "redirects": [
     {
       "source": "/index.php/kontakt",
