@@ -8,7 +8,7 @@ export default {
     host: "0.0.0.0",
   },
   sitemap: {
-    hostname: "https://gasthaus-lamm.vercel.app",
+    hostname: "https://www.fewo-lamm.de",
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
