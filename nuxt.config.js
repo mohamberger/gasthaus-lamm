@@ -22,10 +22,6 @@ export default {
     link: [{ rel: "icon", href: "/favicon.ico", type: "image/x-icon" }],
     script: [
       {
-        src: "https://polyfill.io/v3/polyfill.min.js?features=es6",
-        body: true,
-      },
-      {
         src: "/analytics/js/script.js",
         "data-api": "/analytics/api/event",
         "data-domain":"fewo-lamm.de"  
