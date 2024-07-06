@@ -29,7 +29,7 @@
       ></b-col>
     </b-row>
     <b-row no-gutters>
-      <b-col md="3" class="bg-gray py-5 px-5" style="background-color: #c7d3b5">
+      <b-col md="3" class="py-5 px-5" style="background-color: #c7d3b5">
         <h2 class="h3">Erholsame Nächte und leckeres Frühstück</h2>
         <p class="mb-5">Hotel Garni und Ferienwohnungen</p>
         <b-btn variant="outline-secondary" to="/schlafen">Schlafen</b-btn>
