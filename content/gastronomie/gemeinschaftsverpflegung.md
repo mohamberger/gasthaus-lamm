@@ -46,17 +46,5 @@ menus:
     menu: /uploads/speisekarten/Lamm KW31 -04-08-24.pdf
   - label: Kalenderwoche 30 bis 28.07.2024
     menu: /uploads/speisekarten/Lamm KW30 -28-07-24.pdf
-  - label: Kalenderwoche 29 bis 21.07.2024
-    menu: /uploads/speisekarten/Lamm KW29 -21-07-24.pdf
-  - label: Kalenderwoche 28 bis 14.07.2024
-    menu: /uploads/speisekarten/Lamm KW28 -14-07-24.pdf
-  - label: Kalenderwoche 27 bis 07.07.2024
-    menu: /uploads/speisekarten/Lamm KW27 -07-07-24.pdf
-  - label: Kalenderwoche 26 bis 29.06.2024
-    menu: /uploads/speisekarten/Lamm KW26 -29-06-24.pdf
-  - label: Kalenderwoche 25 bis 22.06.2024
-    menu: /uploads/speisekarten/Lamm KW25 -22-06-24.pdf
-  - label: Kalenderwoche 24 bis 15.06.2024
-    menu: /uploads/speisekarten/Lamm KW24 -15-06-24.pdf
 ---
 
