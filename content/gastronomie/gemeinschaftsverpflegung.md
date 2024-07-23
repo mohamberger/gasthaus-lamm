@@ -28,6 +28,8 @@ description: >-
   * Frischgemüse und Salate sowie Obst aus zertifiziertem BIO-Anbau (laut
   aktuellem Speisenplan)
 menus:
+  - label: Kalenderwoche 37 bis 15.09.2024
+    menu: /uploads/speisekarten/Lamm KW37-15-09-24.pdf
   - label: Kalenderwoche 36 bis 08.09.2024
     menu: /uploads/speisekarten/Lamm KW36-08-09-24.pdf
   - label: Kalenderwoche 35 bis 01.09.2024
