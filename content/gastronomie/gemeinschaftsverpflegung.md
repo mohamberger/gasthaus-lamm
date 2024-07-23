@@ -58,7 +58,5 @@ menus:
     menu: /uploads/speisekarten/Lamm KW25 -22-06-24.pdf
   - label: Kalenderwoche 24 bis 15.06.2024
     menu: /uploads/speisekarten/Lamm KW24 -15-06-24.pdf
-  - label: Kalenderwoche 23 bis 08.06.2024
-    menu: /uploads/speisekarten/Lamm KW23 -08-06-24.pdf
 ---
 
