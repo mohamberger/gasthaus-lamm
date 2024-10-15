@@ -29,6 +29,7 @@ description: >-
   aktuellem Speisenplan)
 menus:
   - label: Kalenderwoche 52 bis 23.12.2024
+    menu: /uploads/speisekarten/Lamm KW52-23-12-24.pdf
   - label: Kalenderwoche 51 bis 21.12.2024
     menu: /uploads/speisekarten/Lamm KW51-21-12-24.pdf
   - label: Kalenderwoche 50 bis 14.12.2024
