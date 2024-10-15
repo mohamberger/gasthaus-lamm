@@ -28,6 +28,8 @@ description: >-
   * Frischgemüse und Salate sowie Obst aus zertifiziertem BIO-Anbau (laut
   aktuellem Speisenplan)
 menus:
+  - label: Kalenderwoche 45 bis 09.11.2024
+    menu: /uploads/speisekarten/Lamm_KW45-09-11-24.pdf
   - label: Kalenderwoche 44 bis 02.11.2024
     menu: /uploads/speisekarten/Lamm_KW44-02-11-24.pdf
   - label: Kalenderwoche 43 bis 26.10.2024
