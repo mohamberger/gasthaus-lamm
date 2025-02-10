@@ -36,11 +36,5 @@ menus:
     menu: /uploads/speisekarten/Lamm KW08-22-02-25.pdf
   - label: Kalenderwoche 7 bis 15.02.2025
     menu: /uploads/speisekarten/Lamm KW07-15-02-25.pdf
-  - label: Kalenderwoche 6 bis 08.02.2025
-    menu: /uploads/speisekarten/Lamm KW06-08-02-25.pdf
-  - label: Kalenderwoche 5 bis 01.02.2025
-    menu: /uploads/speisekarten/Lamm KW05-01-02-25.pdf
-  - label: Kalenderwoche 4 bis 25.01.2025
-    menu: /uploads/speisekarten/Lamm KW04-25-01-25.pdf
 ---
 
