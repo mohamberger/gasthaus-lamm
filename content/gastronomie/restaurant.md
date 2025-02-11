@@ -22,6 +22,6 @@ menus:
   - label: Saisonkarte
     menu: /uploads/speisekarten/Winter 01-25.pdf
   - label: Unsere aktuelle Speisekarte
-    menu: /uploads/speisekarten/Speisekarte 24-01-24-SDS.pdf
+    menu: /uploads/speisekarten/S p e i s e k a r t e  25-Februar 2025 SDS.pdf
 ---
 
