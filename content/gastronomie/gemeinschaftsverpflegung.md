@@ -17,7 +17,7 @@ description: >-
 
   * bevorzugt gering verarbeitet
 
-  * ökologisch erzeugt
+  * ökologisch erzeugt (laut aktuellem Speisenplan)
 
   * regional und saisonal
 
