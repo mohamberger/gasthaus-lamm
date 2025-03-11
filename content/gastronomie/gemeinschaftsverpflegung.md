@@ -28,6 +28,8 @@ description: >-
   * Frischgemüse und Salate sowie Obst aus zertifiziertem BIO-Anbau (laut
   aktuellem Speisenplan)
 menus:
+  - label: Kalenderwoche 13 bis 29.03.2025
+    menu: /uploads/speisekarten/Lamm KW13-29-03-25.pdf
   - label: Kalenderwoche 12 bis 22.03.2025
     menu: /uploads/speisekarten/Lamm KW12-15-03-25.pdf
   - label: Kalenderwoche 11 bis 15.03.2025
