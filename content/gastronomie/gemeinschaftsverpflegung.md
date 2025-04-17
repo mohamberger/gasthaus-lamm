@@ -31,7 +31,7 @@ menus:
   - label: Kalenderwoche 21 bis 24.05.2025
     menu: /uploads/speisekarten/Lamm KW21-24-05-25.pdf
   - label: Kalenderwoche 20 bis 17.05.2025
-    menu: /uploads/speisekarten/Ulm Kiga KW 20-25.pdf
+    menu: /uploads/speisekarten/Lamm KW20-17-05-25.pdf
   - label: Kalenderwoche 19 bis 10.05.2025
     menu: /uploads/speisekarten/Lamm KW019-10-05-25.pdf
   - label: Kalenderwoche 18 bis 03.05.2025
