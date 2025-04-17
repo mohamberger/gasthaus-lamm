@@ -28,6 +28,8 @@ description: >-
   * Frischgemüse und Salate sowie Obst aus zertifiziertem BIO-Anbau (laut
   aktuellem Speisenplan)
 menus:
+  - label: Kalenderwoche 21 bis 24.05.2025
+    menu: /uploads/speisekarten/Ulm Kiga KW 21-25.pdf
   - label: Kalenderwoche 20 bis 17.05.2025
     menu: /uploads/speisekarten/Ulm Kiga KW 20-25.pdf
   - label: Kalenderwoche 19 bis 10.05.2025
