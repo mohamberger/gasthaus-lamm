@@ -42,11 +42,5 @@ menus:
     menu: /uploads/speisekarten/Lamm KW17-26-04-25.pdf
   - label: Kalenderwoche 16 bis 19.04.2025
     menu: /uploads/speisekarten/Lamm KW16-19-04-25.pdf
-  - label: Kalenderwoche 15 bis 12.04.2025
-    menu: /uploads/speisekarten/Lamm KW15-12-04-25.pdf
-  - label: Kalenderwoche 14 bis 05.04.2025
-    menu: /uploads/speisekarten/Lamm KW14-05-04-25.pdf
-  - label: Kalenderwoche 13 bis 29.03.2025
-    menu: /uploads/speisekarten/Lamm KW13-29-03-25.pdf
 ---
 
