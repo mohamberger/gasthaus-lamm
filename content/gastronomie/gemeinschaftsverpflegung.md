@@ -28,6 +28,8 @@ description: >-
   * Frischgemüse und Salate sowie Obst aus zertifiziertem BIO-Anbau (laut
   aktuellem Speisenplan)
 menus:
+  - label: Kalenderwoche 28 bis 12.07.2025
+    menu: /uploads/speisekarten/Lamm KW28-12-07-25.pdf
   - label: Kalenderwoche 27 bis 05.07.2025
     menu: /uploads/speisekarten/Lamm KW27-05-07-25.pdf
   - label: Kalenderwoche 26 bis 27.06.2025
