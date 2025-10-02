@@ -30,7 +30,8 @@ description: >-
 menus:
   - {}
   - {}
-  - {}
+  - label: Kalenderwoche 46 bis 15.11.2025
+    menu: /uploads/speisekarten/Lamm KW46 -18-11-23.pdf
   - label: Kalenderwoche 45 bis 08.11.2025
     menu: /uploads/speisekarten/Lamm KW45-08-11-25.pdf
   - label: Kalenderwoche 44 bis 01.11.2025
