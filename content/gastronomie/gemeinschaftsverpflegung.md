@@ -29,7 +29,8 @@ description: >-
   aktuellem Speisenplan)
 menus:
   - {}
-  - {}
+  - label: Kalenderwoche 47 bis 22.11.2025
+    menu: /uploads/speisekarten/Lamm KW47-22-11-25.pdf
   - label: Kalenderwoche 46 bis 15.11.2025
     menu: /uploads/speisekarten/Lamm KW46-15-11-25.pdf
   - label: Kalenderwoche 45 bis 08.11.2025
