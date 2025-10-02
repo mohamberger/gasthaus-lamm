@@ -31,9 +31,10 @@ menus:
   - {}
   - {}
   - {}
-  - {}
   - label: Kalenderwoche 45 bis 08.11.2025
     menu: /uploads/speisekarten/Lamm KW45-08-11-25.pdf
+  - label: Kalenderwoche 44 bis 01.11.2025
+    menu: /uploads/speisekarten/Lamm KW44-01-11-25.pdf
   - label: Kalenderwoche 43 bis 25.10.2025
     menu: /uploads/speisekarten/Lamm KW43-25-10-25.pdf
   - label: Kalenderwoche 42 bis 18.10.2025
