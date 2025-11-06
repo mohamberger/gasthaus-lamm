@@ -19,9 +19,7 @@ description: >-
   Hierfür wurden wir aktuell mit 3 von 3 Baden-Württembergischen-Schmeck den
   Süden Löwen ausgezeichnet.
 menus:
-  - label: Saisonkarte
-    menu: /uploads/speisekarten/Winter 01-25.pdf
   - label: Unsere aktuelle Speisekarte
-    menu: /uploads/speisekarten/S p e i s e k a r t e  25-Februar 2025 SDS.pdf
+    menu: /uploads/speisekarten/S p e i s e k a r t e  25-November 2025 SDS.pdf
 ---
 
