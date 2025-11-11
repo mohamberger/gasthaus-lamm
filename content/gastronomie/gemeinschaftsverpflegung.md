@@ -30,7 +30,8 @@ description: >-
 menus:
   - {}
   - {}
-  - {}
+  - label: Kalenderwoche 50 bis 13.12.2025
+    menu: /uploads/speisekarten/Lamm KW50 bis 14-12-25.pdf
   - label: Kalenderwoche 49 bis 06.12.2025
     menu: /uploads/speisekarten/Lamm KW49 bis 07-12-25.pdf
   - label: Kalenderwoche 48 bis 29.11.2025
