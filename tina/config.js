@@ -90,7 +90,7 @@ export default defineConfig({
                 ?.toString()
                 .normalize("NFD")
                 .replace(/[\u0300-\u036f]/g, "") // Replace diacritical marks
-                .replace(/ß/g, "ss")  // Replace "ß" with "ss"
+                .replace(/ß/g, "ss") // Replace "ß" with "ss"
                 .toLowerCase()
                 .trim()
                 .replace(/\s+/g, "-")

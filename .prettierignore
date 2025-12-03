@@ -6,3 +6,4 @@ node_modules/
 static/sw.json
 .forestry/
 static/admin/index.html
+tina/__generated__/
