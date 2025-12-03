@@ -2,7 +2,7 @@
 title: Essen auf Räder
 headline: Test
 image: ''
-description: ''
+description: sadfasdf
 menus:
   - label: Kalenderwoche 03-26 bis 16.01.2026
     menu: /uploads/speisekarten/Lamm KW 03-26.pdf
