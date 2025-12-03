@@ -27,6 +27,7 @@ description: >-
 
   * Frischgemüse und Salate sowie Obst aus zertifiziertem BIO-Anbau (laut
   aktuellem Speisenplan)
+menus_label: Speisekarten für Einrichtungen und Firmenkunden
 menus:
   - label: Kalenderwoche 03-26 bis 16.01.2026
     menu: /uploads/speisekarten/Lamm KW 03-26.pdf

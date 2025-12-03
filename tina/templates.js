@@ -160,6 +160,11 @@ export function gastronomieFields() {
       },
     },
     {
+      type: "string",
+      name: "menus_label",
+      label: "Überschrift Speisekarten",
+    },
+    {
       type: "object",
       name: "menus",
       label: "Speisekarten",

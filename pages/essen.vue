@@ -41,7 +41,9 @@
                 v-else-if="gastronomy.menus.length > 1"
                 class="mt-5 list-group list-group-flush col-md-6"
               >
-                <h3>Unsere Speisepläne</h3>
+                <h3 v-if="gastronomy.menus_label">
+                  {{ gastronomy.menus_label }}
+                </h3>
                 <a
                   v-for="(menu, i) in gastronomy.menus"
                   :key="i"
