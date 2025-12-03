@@ -24,7 +24,7 @@ export default {
       {
         src: "/analytics/js/script.js",
         "data-api": "/analytics/api/event",
-        "data-domain":"fewo-lamm.de"  
+        "data-domain": "fewo-lamm.de",
       },
     ],
   },
