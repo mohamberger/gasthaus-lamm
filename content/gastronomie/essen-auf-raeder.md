@@ -3,10 +3,9 @@ title: Essen auf Räder
 headline: ''
 image: ''
 description: ''
-menus_label: Speisekarten für Privatpersonen
+menus_label: Speisekarten für Privatpersonen - Essen auf  Rädern
 menus:
-  - label: Testspeisekarte
-  - label: Kalenderwoche 49 bis 06.12.2025
-    menu: /uploads/speisekarten/Lamm KW49 bis 07-12-25.pdf
+  - label: Kalenderwoche 02 bis  11.01.2026
+    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 02-26.pdf
 ---
 
