@@ -29,6 +29,8 @@ description: >-
   aktuellem Speisenplan)
 menus_label: Speisekarten für Einrichtungen und Firmenkunden
 menus:
+  - label: Kalenderwoche 08-26 bis 20.02.2026
+    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 08-26.pdf
   - label: Kalenderwoche 07-26 bis 13.02.2026
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Ulm Kiga KW 07-26.pdf
   - label: Kalenderwoche 06-26 bis 06.02.2026
