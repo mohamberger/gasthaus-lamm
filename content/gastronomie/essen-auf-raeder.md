@@ -6,7 +6,7 @@ description: ''
 menus_label: Speisekarten für Privatpersonen - Essen auf  Rädern
 menus:
   - label: Kalenderwoche 11 bis 15.03.2026
-    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 11-26.pdf
+    menu: ''
   - label: Kalenderwoche 10 bis 08.03.2026
     menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 10-26.pdf
   - label: Kalenderwoche 09 bis 01.03.2026
