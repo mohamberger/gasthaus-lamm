@@ -15,7 +15,7 @@ description: |-
 menus_label: Speisekarten für Einrichtungen und Firmenkunden
 menus:
   - {}
-  - label: Kalenderwoche 10 bis 06.03.2026
+  - label: Kalenderwoche 10-26 bis 06.03.2026
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 10-26.xlsx.pdf
   - label: Kalenderwoche 09-26 bis 27.02.2026
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 09-26.pdf
