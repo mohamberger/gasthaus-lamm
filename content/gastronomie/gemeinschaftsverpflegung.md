@@ -17,7 +17,7 @@ menus:
   - {}
   - label: Kalenderwoche 10 bis 06.03.2026
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 10-26.xlsx.pdf
-  - label: Kalenderwoche 9 bis 27.02.2026
+  - label: Kalenderwoche 09 bis 27.02.2026
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 09-26.pdf
   - label: Kalenderwoche 08-26 bis 20.02.2026
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 08-26.pdf
