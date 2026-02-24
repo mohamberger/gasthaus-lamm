@@ -10,7 +10,7 @@ menus:
   - {}
   - {}
   - {}
-  - label: Kalenderwoche 12-26 bis 22.03.2026
+  - label: Kalenderwoche 12 bis 22.03.2026
     menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 12-26.pdf
   - label: Kalenderwoche 11 bis 15.03.2026
     menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 11-26.pdf
