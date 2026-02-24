@@ -17,7 +17,8 @@ menus:
   - {}
   - {}
   - {}
-  - {}
+  - label: Kalenderwoche 14-26 bis 03.04.2026
+    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 14-26.pdf
   - label: Kalenderwoche 13-26 bis 27.03.2026
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 13-26.pdf
   - label: Kalenderwoche 12-26 bis 20.03.2026
