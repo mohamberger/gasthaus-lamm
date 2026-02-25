@@ -14,6 +14,8 @@ description: |-
   * Frischgemüse und Salate sowie Obst aus zertifiziertem BIO-Anbau (laut aktuellem Speisenplan)
 menus_label: Speisekarten für Einrichtungen und Firmenkunden
 menus:
+  - label: Kalenderwoche 18-26 bis 01.05.2026
+    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 18-26.pdf
   - label: Kalenderwoche 17-26 bis 24.04.2026
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 17-26.pdf
   - label: Kalenderwoche 16-26 bis 17.04.2026
