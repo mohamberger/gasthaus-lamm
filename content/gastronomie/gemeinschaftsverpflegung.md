@@ -26,9 +26,5 @@ menus:
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 20-26.pdf
   - label: 'Kalenderwoche 19-26 bis 08.05.2026 '
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 19-26.pdf
-  - label: Kalenderwoche 18-26 bis 01.05.2026
-    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 18-26.pdf
-  - label: Kalenderwoche 17-26 bis 24.04.2026
-    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 17-26.pdf
 ---
 
