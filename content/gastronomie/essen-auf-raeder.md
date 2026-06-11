@@ -8,7 +8,8 @@ menus:
   - {}
   - {}
   - {}
-  - {}
+  - label: Kalenderwoche 29 bis 19.07.2026
+    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 29-26.pdf
   - label: Kalenderwoche 28 bis 12.07.2026
     menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 28-26.pdf
   - label: 'Kalenderwoche 27 bis 05.07.2026 '
