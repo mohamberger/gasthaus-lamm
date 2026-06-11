@@ -17,7 +17,7 @@ menus:
   - {}
   - {}
   - {}
-  - {}
+  - label: Kalenderwoche 29-26 bis 17.07.2026
   - label: Kalenderwoche 28-26 bis 10.07.2026
   - label: Kalenderwoche 27-26 bis 03.07.2026
   - label: Kalenderwoche 26-26 bis 26.06.2026
