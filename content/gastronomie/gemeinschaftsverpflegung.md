@@ -15,7 +15,7 @@ description: |-
 menus_label: Speisekarten für Einrichtungen und Firmenkunden
 menus:
   - {}
-  - {}
+  - label: Kalenderwoche 31-26 bis 31.07.2026
   - label: Kalenderwoche 30-26 bis 24.07.2026
   - label: Kalenderwoche 29-26 bis 17.07.2026
   - label: Kalenderwoche 28-26 bis 10.07.2026
