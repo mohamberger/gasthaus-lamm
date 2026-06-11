@@ -7,7 +7,8 @@ menus_label: Speisekarten für Privatpersonen - Essen auf  Rädern
 menus:
   - {}
   - {}
-  - {}
+  - label: Kalenderwoche 30 bis 26.07.2026
+    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 30-26.pdf
   - label: Kalenderwoche 29 bis 19.07.2026
     menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 29-26.pdf
   - label: Kalenderwoche 28 bis 12.07.2026
