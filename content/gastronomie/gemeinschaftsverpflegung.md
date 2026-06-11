@@ -19,6 +19,7 @@ menus:
   - label: Kalenderwoche 31-26 bis 31.07.2026
   - label: Kalenderwoche 30-26 bis 24.07.2026
   - label: Kalenderwoche 29-26 bis 17.07.2026
+    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 30-26.pdf
   - label: Kalenderwoche 28-26 bis 10.07.2026
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 28-26.pdf
   - label: Kalenderwoche 27-26 bis 03.07.2026
