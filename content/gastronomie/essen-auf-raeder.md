@@ -8,7 +8,8 @@ menus:
   - {}
   - {}
   - {}
-  - {}
+  - label: Kalenderwoche 34 bis 23.08.2026
+    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 34-26.pdf
   - label: Kalenderwoche 33 bis 16.08.2026
     menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 33-26.pdf
   - label: Kalenderwoche 32 bis 09.08.2026
