@@ -14,7 +14,8 @@ description: |-
   * Frischgemüse und Salate sowie Obst aus zertifiziertem BIO-Anbau (laut aktuellem Speisenplan)
 menus_label: Speisekarten für Einrichtungen und Firmenkunden
 menus:
-  - {}
+  - label: Kalenderwoche 39-26 bis 25.09.2026
+    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 39-26.pdf
   - label: Kalenderwoche 38-26 bis18.09.2026
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 38-26.pdf
   - label: Kalenderwoche 37-26 bis 11.09.2026
