@@ -10,7 +10,7 @@ menus:
   - label: Kalenderwoche 38 bis 20.09.2026
     menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 38-26.pdf
   - label: Kalenderwoche 37 bis 13.09.2026
-    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 37-26.pdf
+    menu: ''
   - label: Kalenderwoche 36 bis 06.09.2026
     menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 36-26.pdf
   - label: Kalenderwoche 35 bis 30.08.2026
