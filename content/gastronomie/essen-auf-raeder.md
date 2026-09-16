@@ -8,7 +8,8 @@ menus:
   - {}
   - {}
   - {}
-  - {}
+  - label: Kalenderwoche 44 bis 01.11.2026
+    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 44-26.pdf
   - label: Kalenderwoche 43 bis 25.10.2026
     menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 43-26.pdf
   - label: Kalenderwoche 42 bis 18.10.2026
