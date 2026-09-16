@@ -5,7 +5,8 @@ image: ''
 description: ''
 menus_label: Speisekarten für Privatpersonen - Essen auf  Rädern
 menus:
-  - {}
+  - label: Kalenderwoche 47 bis 22.11.2026
+    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 47-26.pdf
   - label: Kalenderwoche 46 bis 15.11.2026
     menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 46-26.pdf
   - label: Kalenderwoche 45 bis 08.11.2026
