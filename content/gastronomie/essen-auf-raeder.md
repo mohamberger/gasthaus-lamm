@@ -5,25 +5,18 @@ image: ''
 description: ''
 menus_label: Speisekarten für Privatpersonen - Essen auf  Rädern
 menus:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - label: Kalenderwoche 40 bis 04.10.2026
+    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 40-26.pdf
   - label: Kalenderwoche 39 bis 27.09.2026
     menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 39-26.pdf
   - label: Kalenderwoche 38 bis 20.09.2026
     menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 38-26.pdf
-  - label: Kalenderwoche 37 bis 13.09.2026
-    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 37-26.pdf
-  - label: Kalenderwoche 36 bis 06.09.2026
-    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 36-26.pdf
-  - label: Kalenderwoche 35 bis 30.08.2026
-    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 35-26.pdf
-  - label: Kalenderwoche 34 bis 23.08.2026
-    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 34-26.pdf
-  - label: Kalenderwoche 33 bis 16.08.2026
-    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 33-26.pdf
-  - label: Kalenderwoche 32 bis 09.08.2026
-    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 32-26.pdf
-  - label: Kalenderwoche 31 bis 02.08.2026
-    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 31-26.pdf
-  - label: Kalenderwoche 30 bis 26.07.2026
-    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 30-26.pdf
 ---
 
