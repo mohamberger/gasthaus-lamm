@@ -14,25 +14,15 @@ description: |-
   * Frischgemüse und Salate sowie Obst aus zertifiziertem BIO-Anbau (laut aktuellem Speisenplan)
 menus_label: Speisekarten für Einrichtungen und Firmenkunden
 menus:
+  - {}
+  - {}
+  - {}
+  - {}
+  - label: Kalenderwoche 48-26 bis 29.11.2026
+    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 48-26.pdf
   - label: Kalenderwoche 47-26 bis 22.11.2026
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 47-26.pdf
   - label: 'Kalenderwoche 46-26 bis 15.11.2026 '
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 46-26.pdf
-  - label: Kalenderwoche 45-26 bis 08.11.2026
-    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 45-26.pdf
-  - label: Kalenderwoche 44-26 bis 01.11.2026
-    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 44-26.pdf
-  - label: Kalenderwoche 43-26 bis 25.10.2026
-    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 43-26.pdf
-  - label: Kalenderwoche 42-26 bis 18.10.2026
-    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 42-26.pdf
-  - label: Kalenderwoche 41-26 bis 11.10.2026
-    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 41-26.pdf
-  - label: Kalenderwoche 40-26 bis 04.10.2026
-    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 40-26.pdf
-  - label: Kalenderwoche 39-26 bis 25.09.2026
-    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 39-26.pdf
-  - label: Kalenderwoche 38-26 bis18.09.2026
-    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 38-26.pdf
 ---
 
