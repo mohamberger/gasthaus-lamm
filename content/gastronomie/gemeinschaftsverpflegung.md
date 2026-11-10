@@ -17,7 +17,8 @@ menus:
   - {}
   - {}
   - {}
-  - {}
+  - label: Kalenderwoche 49-26 bis 06.12.2026
+    menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 49-26.pdf
   - label: Kalenderwoche 48-26 bis 29.11.2026
     menu: /uploads/speisekarten/Gemeinschaftsverpflegung 2026/Lamm KW 48-26.pdf
   - label: Kalenderwoche 47-26 bis 22.11.2026
