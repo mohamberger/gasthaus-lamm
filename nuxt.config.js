@@ -26,6 +26,10 @@ export default {
         "data-api": "/analytics/api/event",
         "data-domain": "fewo-lamm.de",
       },
+      {
+        src: "https://www.iloca-hotel.de/fewo-lamm/widgets/base.js?mp=1",
+        defer: true,
+      },
     ],
   },
   // Global CSS: https://go.nuxtjs.dev/config-css
