@@ -56,6 +56,9 @@
                 :href="room.booking"
                 variant="primary"
                 target="_blank"
+                @click="
+                  openBooking($event, room.booking, 'gasthaus-lamm-garni')
+                "
                 >Buchen</b-button
               >
             </b-card>
@@ -181,6 +184,9 @@
                       :href="apartment.booking"
                       target="_blank"
                       variant="primary"
+                      @click="
+                        openBooking($event, apartment.booking, 'fewo-lamm')
+                      "
                       >Wohnung buchen</b-btn
                     ></b-col
                   >
@@ -240,6 +246,13 @@ export default {
     }
   },
   methods: {
+    openBooking(event, url, property) {
+      if (!/^https?:/.test(url || "")) return;
+      event.preventDefault();
+      if (window.ilocaWB && window.ilocaWB.wbe) {
+        window.ilocaWB.wbe({ property, lang: "de" });
+      }
+    },
     onSlideStart(slide) {
       this.sliding = true;
     },
