@@ -8,7 +8,8 @@ menus:
   - {}
   - {}
   - {}
-  - {}
+  - label: Kalenderwoche 49 bis 06.12.2026
+    menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 49-26.pdf
   - label: Kalenderwoche 48 bis 29.11.2026
     menu: /uploads/speisekarten/E-A-R-2026/E-A-R KW 48-26.pdf
   - label: Kalenderwoche 47 bis 22.11.2026
